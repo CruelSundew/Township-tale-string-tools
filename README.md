@@ -33,6 +33,6 @@ here's their discord: https://discord.gg/ZrdccmdmkE
 
 ## About me
 
-Im currently working on making a youtube covering the topic of strings and/or a video about how to use poistring
+Im currently working on making a youtube video covering the topic of strings and/or a video about how to use poistring
 
 however i cant garentee that either will be done soon if ever lol
