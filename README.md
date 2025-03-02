@@ -1,6 +1,12 @@
 # Township-tale-string-tools
 **STRINGS CANNOT BE SPAWNED ON QUEST**
 
-A set of tools that can be used for creating strings and info relating how to install them
+A set of tools that can be used for creating strings
 
-Also contains some info about my township tale stuff/projects
+Also explains how to install these tools
+
+## About me
+
+Im currently working on making a youtube covering the topic of strings
+
+however i cant garentee that it will be done soon if ever lol
