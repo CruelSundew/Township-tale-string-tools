@@ -31,10 +31,12 @@ but to put it simpily using my knowledge, it is a type of "coding language" used
 
 here's their discord: https://discord.gg/ZrdccmdmkE
 
-## About me
+## My projects
 
 Im currently working on making a youtube video covering the topic of strings and/or a video about how to use poistring
 
 however i cant garentee that either will be done soon if ever lol
 
-Go to the file called my about me for more info
+however if either video does come out I will post it here
+
+If you want to know more anout me me or just want my string list go to the file called my about me for more info
