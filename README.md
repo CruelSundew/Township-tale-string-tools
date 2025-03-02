@@ -7,7 +7,7 @@ Also explains how to install these tools
 
 ## links
 
-Im posting the lists that I think are useful
+Im posting the things that I think are useful
 
 https://docs.google.com/spreadsheets/d/1piXLvavmMETWma-mQxY9w7kYxvSG3jzIHyfFvdQnUxQ/edit?usp=sharing
 
