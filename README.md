@@ -19,7 +19,7 @@ https://github.com/edencomputing/attprefabulator/releases/
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vR7sXiFWQc4zX_gmBYF3CHJTaNfWNlB5EP7KOkl5DrzGxVqsxaXBi28w-VZ0wn6kLk6R3j6c3miKNsg/pubhtml#
 
-(CJ's item list unlocked)
+(CJ's item list unlocked, unless the normal one becomes public again)
 
 ## string transcoder
 
