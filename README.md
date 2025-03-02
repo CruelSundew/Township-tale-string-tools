@@ -36,3 +36,5 @@ here's their discord: https://discord.gg/ZrdccmdmkE
 Im currently working on making a youtube video covering the topic of strings and/or a video about how to use poistring
 
 however i cant garentee that either will be done soon if ever lol
+
+Go to the file called my about me for more info
