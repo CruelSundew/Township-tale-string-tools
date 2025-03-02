@@ -5,6 +5,22 @@ A set of tools that can be used for creating strings
 
 Also explains how to install these tools
 
+## links
+
+Im posting the lists that I think are useful
+
+https://docs.google.com/spreadsheets/d/1piXLvavmMETWma-mQxY9w7kYxvSG3jzIHyfFvdQnUxQ/edit?usp=sharing
+
+(Ethyn's Visual Slot Reference used for finding specific connect points)
+
+https://github.com/edencomputing/attprefabulator/releases/
+
+(prefabulator used for creating permanent objects in a PC world)
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR7sXiFWQc4zX_gmBYF3CHJTaNfWNlB5EP7KOkl5DrzGxVqsxaXBi28w-VZ0wn6kLk6R3j6c3miKNsg/pubhtml#
+
+(CJ's item list not locked)
+
 ## string transcoder
 
 I would like to also mention a tool called string transcoder, however it is more complex and hard to explain
