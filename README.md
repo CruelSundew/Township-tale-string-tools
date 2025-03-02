@@ -39,4 +39,4 @@ however i cant garentee that either will be done soon if ever lol
 
 however if either video does come out I will post it here
 
-If you want to know more anout me me or just want my string list go to the file called my about me for more info
+If you want to know more about me me or just want my string list, then go to the file called my about me for more info
