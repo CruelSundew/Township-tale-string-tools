@@ -1,2 +1,2 @@
 # Township-tale-string-tools
-A set off tools that can be used for creating strings
+A set of tools that can be used for creating strings and info relating how to install them
