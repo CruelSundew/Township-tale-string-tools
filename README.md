@@ -9,4 +9,4 @@ Also explains how to install these tools
 
 Im currently working on making a youtube covering the topic of strings and/or a video about how to use poistring
 
-however i cant garentee that it will be done soon if ever lol
+however i cant garentee that either will be done soon if ever lol
