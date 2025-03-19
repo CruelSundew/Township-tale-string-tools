@@ -31,6 +31,11 @@ but to put it simpily using my knowledge, it is a type of "coding language" used
 
 here's their discord: https://discord.gg/ZrdccmdmkE
 
+## Township bot stuff
+
+you can find the python library for township tale at https://github.com/dly2424/py-tale.git
+and then if you need any of the others you can check out the others that the profile made
+
 ## My projects
 
 Im currently working on making a youtube video covering the topic of strings and/or a video about how to use poistring
